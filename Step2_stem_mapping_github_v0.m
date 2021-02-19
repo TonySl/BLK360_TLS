@@ -37,7 +37,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-bin_filenames_05_4m = 'E:\TLidar\2019\point_cloud_files\test_region\petitplateau_bin_050_400_2cm_testregion.txt'; %%%%% folder containing input files
+bin_filenames_05_4m = './figshare/test_region/petitplateau_bin_050_400_2cm_testregion.txt'; %%%%% folder containing input files
 % bin_filenames_05_4m = 'E:\TLidar\2019\StripALL_laz_optimize_thinCC1cm_clipboundary_tiles_bin\replace_z\petitplateau_bin_050_400cm.txt';
 
 
