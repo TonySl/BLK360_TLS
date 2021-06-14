@@ -7,7 +7,7 @@ https://filesender.renater.fr/?s=download&token=c7195ddc-7773-4e7e-840b-8ebd483c
 
 
 # Reference <br/>
-Tao et al. In Revision.
+Tao et al. Annals of Forest Science. In Revision.
 
 # Contact <br/>
 Shengli Tao <br/>
