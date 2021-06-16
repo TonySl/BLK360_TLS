@@ -30,7 +30,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-FullFileName='./figshare/test_region/lowest_5cm_testregion.txt'; %'E:\TLidar\2019\lowest_5cm_single_scans_merged_lowest_5cm_cutplot_tiles\peitiplateau_lowest5cm_lasground_tile_reversed_groundonly.txt'
+FullFileName='./figshare/test_region/lowest_5cm_testregion.txt'; 
 
 
 
