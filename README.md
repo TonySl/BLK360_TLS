@@ -8,7 +8,7 @@ https://filesender.renater.fr/?s=download&token=c7195ddc-7773-4e7e-840b-8ebd483c
 
 ![Stem detection from different height bins](images/stem_detection2.png)
 Detected stems <br/>
-![High resolution DTM](images/dem2.tif)
+![High resolution DTM](images/dem2.png)
 High resolution (20cm) terrain elevation model <br/>
 
 
