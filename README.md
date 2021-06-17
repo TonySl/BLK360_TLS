@@ -1,6 +1,10 @@
 # BLK360 laser scanning of rainforests
-Algorithm for detecting tropical forest stems from BLK360 terrestrial laser scanning data. <br/>
-Point cloud files related to the scripts are available at:  
+
+In 2019, a permanent 12-ha rainforest plot, called “Petit Plateau”, was scanned using two BLK360 laser scanner. <br/>
+A new algorithm was then developed for detecting trees stems from the laser scanning data. <br/>
+36,422 stems were detected, of which 29,665 (81%) were in the 3-10 cm DBH range. 
+
+Point cloud files of the plot and the detected stems are available at:  
 https://filesender.renater.fr/?s=download&token=c7195ddc-7773-4e7e-840b-8ebd483cec8f
 
 ![Stem detection from different height bins](images/stem_detection2.png)
