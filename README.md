@@ -11,7 +11,7 @@
 ![stems and DEM](images/photo22.png)
 
 
-Point cloud files of the plot and of the detected stems are available at:  
+**Point cloud files of the plot and of the detected stems are available at:**  
 https://filesender.renater.fr/?s=download&token=c7195ddc-7773-4e7e-840b-8ebd483cec8f
 
 
