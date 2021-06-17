@@ -6,10 +6,13 @@ A new algorithm was then developed for extracting ground points and detecting tr
 Point cloud files of the plot and of the detected stems are available at:  
 https://filesender.renater.fr/?s=download&token=c7195ddc-7773-4e7e-840b-8ebd483cec8f
 
-![Stem detection from different height bins](images/stem_20cmwide.png)
+
 Detected stems <br/>
-![High resolution DTM](images/dem2.png)
+![Stem detection from different height bins](images/stem_20cmwide.png)
+
 High resolution (20cm) terrain elevation model <br/>
+![High resolution DTM](images/dem20cm.png)
+
 
 
 # Reference <br/>
