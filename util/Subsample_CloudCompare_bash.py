@@ -9,7 +9,7 @@ indir=r'E:\TLidar\2019\StripALL_laz_optimize'
 os.chdir(indir)
 filenames = glob.glob("*.laz")
 
-f = open(r"E:\TLidar\2019\CC_subsample_1cm_singlescan.bat","w")
+f = open(r"E:\TLidar\2019\CC_subsample_2cm_singlescan.bat","w")
 
 
 for i in range(0,len(filenames)):
@@ -23,4 +23,4 @@ for i in range(0,len(filenames)):
        
 f.close()
 
-##os.system("CC_subsample_1cm_singlescan.bat")
+##os.system("CC_subsample_2cm_singlescan.bat")
