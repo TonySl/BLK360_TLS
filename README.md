@@ -21,4 +21,7 @@ Tao et al. Annals of Forest Science. In Revision.
 # Contact <br/>
 Shengli Tao <br/>
 sltao1990@gmail.com <br/>
-https://edb.cnrs.fr/annuaire/shengli-tao/
+
+# Link <br/>
+[Google scholar](https://scholar.google.com.hk/citations?user=7NJkU6cAAAAJ&hl=en&oi=ao) 
+[EDB Lab](https://edb.cnrs.fr/annuaire/shengli-tao/) 
