@@ -12,7 +12,7 @@
 
 
 **Point cloud files of the plot have been made publicly available at:**  
-https://filesender.renater.fr/?s=download&token=5e8ab278-916c-4c6f-9b3a-d82132b90ef7
+https://filesender.renater.fr/?s=download&token=03519a01-94de-477a-8042-998f6f1ee3d8
 
 
 # Reference <br/>
