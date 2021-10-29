@@ -12,11 +12,11 @@
 
 
 **Point cloud files of the plot have been made publicly available at:**  
-https://filesender.renater.fr/?s=download&token=03519a01-94de-477a-8042-998f6f1ee3d8
+https://doi.org/10.6084/m9.figshare.14061602.v2
 
 
 # Reference <br/>
-Tao et al. Annals of Forest Science. In Revision.
+Tao et al. Annals of Forest Science.
 
 # Contact <br/>
 Shengli Tao <br/>
