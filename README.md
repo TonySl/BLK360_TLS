@@ -11,7 +11,7 @@
 ![stems and DEM](images/photo22.png)
 
 
-**Point cloud files of the plot have been made publicly available at:**  
+**Point cloud files of the plot (raw points, ground points, and stem points) have been made publicly available at:**  
 https://doi.org/10.6084/m9.figshare.14061602.v2
 
 
