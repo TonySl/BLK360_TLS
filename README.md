@@ -16,7 +16,7 @@ https://doi.org/10.6084/m9.figshare.14061602.v2
 
 
 # Reference <br/>
-Tao et al. Annals of Forest Science.
+Tao et al. Mapping tropical forest trees across large areas with lightweight cost-effective terrestrial laser scanning. Annals of Forest Science 78, 103 (2021). https://doi.org/10.1007/s13595-021-01113-9
 
 # Contact <br/>
 Shengli Tao <br/>
